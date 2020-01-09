@@ -1,5 +1,5 @@
 package com.example.tester;
 
 public class test {
-    int d;
+    String aap;
 }
